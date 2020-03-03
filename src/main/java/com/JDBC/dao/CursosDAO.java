@@ -1,7 +1,10 @@
 package com.JDBC.dao;
 
+<<<<<<< HEAD
 //...
 
+=======
+>>>>>>> 6a007be0b1e7665ddeb1e8423433d43cf1fc68f2
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
